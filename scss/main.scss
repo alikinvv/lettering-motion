@@ -1,0 +1,31 @@
+body {
+	background: #d1fdfd;
+}
+svg {
+	width: 300px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	fill: #D45346;
+	filter:url('#goo');
+}
+
+.layer1 {
+	fill: #D45346;
+	z-index: 4;
+}
+
+.layer2 {
+	fill: #E29144;
+	z-index: 3;
+}
+
+.layer3 {
+	fill: #48A0DD;
+	z-index: 2;
+}
+
+#D, #E, #V, #D2, #E2, #V2, #D3, #E3, #V3, {
+	visibility: hidden;	
+}
