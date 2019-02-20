@@ -6,4 +6,4 @@
 
 ## [Live Demo](https://codepen.io/AlikinVV/full/Bxoyww/)
 
-![search animation](https://cdn.dribbble.com/users/1773016/screenshots/5742757/1.gif)
+![lettering motion](https://cdn.dribbble.com/users/1773016/screenshots/5742757/1.gif)
