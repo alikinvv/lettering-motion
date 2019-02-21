@@ -8,4 +8,4 @@
 
 ![lettering motion](https://cdn.dribbble.com/users/1773016/screenshots/5742757/1.gif)
 
-[![Analytics](https://ga-beacon.appspot.com/UA-31485994-5/lettering-motion)](https://github.com/alikinvv/lettering-motion)
+[![Analytics](https://ga-beacon.appspot.com/UA-31485994-5/lettering-motion-repo)](https://github.com/alikinvv/lettering-motion)
